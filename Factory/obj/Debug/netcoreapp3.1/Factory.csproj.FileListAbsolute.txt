@@ -1,0 +1,13 @@
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\DesignPatternExample\Factory\bin\Debug\netcoreapp3.1\Factory.deps.json
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\DesignPatternExample\Factory\bin\Debug\netcoreapp3.1\Factory.dll
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\DesignPatternExample\Factory\bin\Debug\netcoreapp3.1\Factory.pdb
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\DesignPatternExample\Factory\bin\Debug\netcoreapp3.1\MiddleLayer.dll
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\DesignPatternExample\Factory\bin\Debug\netcoreapp3.1\MiddleLayer.pdb
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\DesignPatternExample\Factory\obj\Debug\netcoreapp3.1\Factory.csproj.AssemblyReference.cache
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\DesignPatternExample\Factory\obj\Debug\netcoreapp3.1\Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\DesignPatternExample\Factory\obj\Debug\netcoreapp3.1\Factory.AssemblyInfoInputs.cache
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\DesignPatternExample\Factory\obj\Debug\netcoreapp3.1\Factory.AssemblyInfo.cs
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\DesignPatternExample\Factory\obj\Debug\netcoreapp3.1\Factory.csproj.CoreCompileInputs.cache
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\DesignPatternExample\Factory\obj\Debug\netcoreapp3.1\Factory.csproj.CopyComplete
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\DesignPatternExample\Factory\obj\Debug\netcoreapp3.1\Factory.dll
+C:\Users\Ashutosh.chaturvedi\CSharpPractice\DesignPatternExample\Factory\obj\Debug\netcoreapp3.1\Factory.pdb

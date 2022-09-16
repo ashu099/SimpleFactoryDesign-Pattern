@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiddleLayer", "MiddleLayer.csproj", "{22195A49-979E-4490-8A36-8EE9D4D39033}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp1", "..\WinFormsApp1\WinFormsApp1.csproj", "{B4177362-8DB4-454F-97C7-7742275136CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factory", "..\Factory\Factory.csproj", "{98EF9AC4-4E39-416B-82FA-5DD628685BE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22195A49-979E-4490-8A36-8EE9D4D39033}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22195A49-979E-4490-8A36-8EE9D4D39033}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22195A49-979E-4490-8A36-8EE9D4D39033}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22195A49-979E-4490-8A36-8EE9D4D39033}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4177362-8DB4-454F-97C7-7742275136CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4177362-8DB4-454F-97C7-7742275136CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4177362-8DB4-454F-97C7-7742275136CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4177362-8DB4-454F-97C7-7742275136CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98EF9AC4-4E39-416B-82FA-5DD628685BE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98EF9AC4-4E39-416B-82FA-5DD628685BE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98EF9AC4-4E39-416B-82FA-5DD628685BE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98EF9AC4-4E39-416B-82FA-5DD628685BE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {97CEB68B-0860-4122-B537-674EB2506ECE}
+	EndGlobalSection
+EndGlobal
